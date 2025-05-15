@@ -68,6 +68,8 @@ Let’s follow the process exactly like a real-life software developer would do.
 3. Maria then looks for the “code” button, and creates the new codespace. 
 4. Once the codespace is opened, Maria will see the VS-Code coding editor open with a copy of the project code.
 
+5. dfgdfgdfgdfgdfgdfgdfg
+
 ### The terminal
 
 To work on your projects you will need access to the terminal, you can always find or open the terminal by clicking on the hamburger menu on the top left and selecting the `“terminal” => “new terminal”` option.
